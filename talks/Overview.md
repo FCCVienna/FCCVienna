@@ -8,5 +8,5 @@
 > by [Daniel Deutsch](https://www.linkedin.com/in/daniel-deutsch-b95611127/) (2.2017)
 
 
->[3. Introduction to Git ⤵️]()
-> by Martin Plochberger (2.2017)
+>[3. Introduction to Git ⤵️](https://github.com/FCCVienna/FCCVienna/blob/master/talks/2017-02-24_git_quick_and_dirty.odp)
+> by [Martin Plochberger](https://github.com/42pre) (2.2017)

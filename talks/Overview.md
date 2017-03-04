@@ -9,4 +9,4 @@
 
 
 >[3. Introduction to Git ⤵️]()
-> by Martin Plochberge­r (2.2017)
+> by Martin Plochberger (2.2017)

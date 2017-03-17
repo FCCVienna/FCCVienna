@@ -29,7 +29,7 @@ Basic ideas for each meetup:
   * A person guiding the audience through a codebase they are currently working on.
 * Discussion Circle
   * Setting different topics and letting the audience discuss.
-* [Presentations and Talks](https://github.com/FCCVienna/FCCVienna/blob/master/talks/Overview.md)
+* [Presentations and Talks](talks/Overview.md)
   * Different topics with following QA
 * Coding Sessions
   * Mob Sessions

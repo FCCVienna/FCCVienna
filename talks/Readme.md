@@ -14,5 +14,5 @@
 >4.[ Introduction to machine learning ⤵️](https://abisz.github.io/talk-ml-introduction/#/)
 > by [Simon Reinsperger](http://www.piedcode.com/) (3.2017)
 
->5.[ Introduction to desktop development ⤵️]()
+>5.[ Introduction to desktop development ⤵️](https://docs.google.com/presentation/d/1-43Of72dOhDBW3F4Peylc2QFzm0rGw3u1XX_2TwKv6I/edit?usp=sharing)
 > by [Joachim Tecklenburg](https://tecklenburg.at/) (3.2017)

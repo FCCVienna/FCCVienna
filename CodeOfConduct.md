@@ -1,17 +1,27 @@
-# Code of Conduct
+# ⚖️ Code of Conduct ⚖️
 
+  * [1. Purpose](#1-purpose)
+  * [2. Open Source Citizenship](#2-open-source-citizenship)
+  * [3. Expected Behavior](#3-expected-behavior)
+  * [4. Unacceptable Behavior](#4-unacceptable-behavior)
+  * [5. Weapons Policy](#5-weapons-policy)
+  * [6. Consequences of Unacceptable Behavior](#6-consequences-of-unacceptable-behavior)
+  * [7. Reporting Guidelines](#7-reporting-guidelines)
+  * [8. Addressing Grievances](#8-addressing-grievances)
+  * [9. Scope](#9-scope)
+  * [10. Contact](#10-contact)
 
 ## 1. Purpose
 
-A primary goal of COMMUNITY_NAME is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of FCC Vienna is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in COMMUNITY_NAME to help us create safe and positive experiences for everyone.
+We invite all those who participate in FCC Vienna to help us create safe and positive experiences for everyone.
 
-## 2. Open [Source/Culture/Tech] Citizenship
+## 2. Open Source Citizenship
 
-A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
+A supplemental goal of this Code of Conduct is to increase open source citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
 
 Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
 
@@ -46,7 +56,7 @@ Sustained disruption of community events, including talks and presentations.
 
 ## 5. Weapons Policy
 
-No weapons will be allowed at [COMMUNITY_NAME] events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.
+No weapons will be allowed at FCC Vienna events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.
 
 ## 6. Consequences of Unacceptable Behavior
 
@@ -58,17 +68,13 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## 7. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. [CONTACT_INFO_HERE].
-
-[LINK_TO_REPORTING_GUIDELINES]
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. (See the [Readme file](./Readme.md) for current contact references)
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
 ## 8. Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify GOVERNING_BODY with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. [LINK_TO_POLICY]
-
-[NOTE: Every organization’s governing policies should dictate how you handle warnings and expulsions of community members. It is strongly recommended that you mention those policies here or in Section 7 and that you include a mechanism for addressing grievances.]
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify one of the organizers with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
 
 ## 9. Scope
 
@@ -76,6 +82,8 @@ We expect all community participants (contributors, paid or otherwise; sponsors;
 
 This code of conduct and its related procedures also applies to unacceptable behavior occuring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
-## 10. Contact info
+## 10. Contact
 
-[YOUR CONTACT INFO HERE — this should be a single person or a small team who can respond to issues directly]
+- <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/854371/profile/profile-80_2.jpg" height="60"> [Daniel](https://github.com/DDCreationStudios)
+- <img src="https://avatars1.githubusercontent.com/u/17717159?v=3&s=460" height="60"> [Lukas](https://github.com/lukastillmann)
+- <img src="https://avatars3.githubusercontent.com/u/13132899?v=3&s=460" height="60"> [Robert](https://github.com/robeerob)

@@ -52,7 +52,7 @@ Presenting a simple demonstration for a web-development stack with **node.js (np
 
 ### Have fun!
 
-## Userful *Visual Studio Code* Extensions
+## Useful *Visual Studio Code* Extensions
 ### Html5 Snippets
 Provides html5 snippets
 

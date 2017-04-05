@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Dependency Management for Javascript and asp.net - Demo</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script src="node_modules/jquery/dist/jquery.min.js"></script>
+    </head> 
+    <body>
+        <button id="btn" type="">Click me!</button>
+        <h1 style="display: none;">It works</h1>
+
+        <script>
+            console.log("foobar");
+            $("#btn").click(function(){
+                $("h1").toggle();
+            });
+        </script>
+    </body>
+</html>

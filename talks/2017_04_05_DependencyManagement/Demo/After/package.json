@@ -1,0 +1,10 @@
+{
+  "name": "demoproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Michael Beck, www.podi.at",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}

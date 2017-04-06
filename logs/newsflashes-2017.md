@@ -9,6 +9,8 @@ The lists are curated and also presented during meetups by:
 
 <!-- toc orderedList:0 depthFrom:1 depthTo:6 -->
 
+## Table of Contents
+
 * [April Newsflash 📰](#april-2017-newsflash)
   * [3 main articles](#3-main-articles)
   * [9 side articles](#9-side-articles)

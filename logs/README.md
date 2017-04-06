@@ -1,11 +1,11 @@
 ## Synopsis
 
-The logs section of the [FCCVienna repository](https://github.com/FCCVienna/FCCVienna) contains [protocols](meeting-protocols-for-the-fccvienna-meetups) and [newsflashes](#curated-list-of-news-articles).
+The logs section of the [FCCVienna repository](https://github.com/FCCVienna/FCCVienna) contains [protocols](#meeting-protocols-for-the-fccvienna-meetups) and [newsflashes](#curated-list-of-news-articles).
 
-### meeting protocols for the FCCVienna meetups
+### Meeting Protocols for the FCCVienna Meetups
   - [2017](meetup-protocols-2017.md)
 
-### curated lists of news articles
+### Curated List of News Articles
   - [2017](newsflashes-2017.md)
 
 ## Motivation

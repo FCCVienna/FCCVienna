@@ -2,6 +2,11 @@
 
 The newsflash section contains articles from different newsletters that we regard as interesting for our community.
 
+The lists are curated and also presented during meetups by:
+- [Daniel](https://github.com/DDCreationStudios)
+- [Lukas](https://github.com/lukastillmann)
+- [Robert](https://github.com/robeerob)
+
 <!-- toc orderedList:0 depthFrom:1 depthTo:6 -->
 
 * [March Newsflash 📰](#april-2017-newsflash)

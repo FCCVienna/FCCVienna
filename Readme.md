@@ -9,6 +9,7 @@
   * [Standard Program Options](#standard-program-options)
   * [Sponsors](#sponsors)
   * [Organizer Team](#organizer-team)
+  * [License](#license)
 
 ---
 ####  🎉🚀 Check [Meetup.com](https://www.meetup.com/de-DE/Free-Code-Camp-Vienna/) for the latest meetups in Vienna! 🚀🎉
@@ -46,3 +47,14 @@ For feedback, questions or suggestions get in contact with
 - <img src="https://avatars3.githubusercontent.com/u/13132899?v=3&s=460" height="60"> [Robert](https://github.com/robeerob)
 
 You can also open an issue and mention one of us. 😄
+
+## License [![License](https://img.shields.io/badge/License-BSD%203--Clause-red.svg)](https://opensource.org/licenses/BSD-3-Clause) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-red.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+
+Copyright (c) 2017 FCCVienna.
+
+The content of this repository bound by the following LICENSE(S)
+
+- The computer software is licensed under the [BSD-3-Clause](./LICENSE_software.md).
+
+- All other content, especially the wiki and logs are licensed under the [CC-BY-SA-4.0](./LICENSE_written.md).

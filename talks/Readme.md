@@ -16,3 +16,6 @@
 
 >5.[ Introduction to desktop development ⤵️](https://docs.google.com/presentation/d/1-43Of72dOhDBW3F4Peylc2QFzm0rGw3u1XX_2TwKv6I/edit?usp=sharing)
 > by [Joachim Tecklenburg](https://tecklenburg.at/) (3.2017)
+
+>6.[ Package Management for the Web 101 ⤵️](./2017_04_05_DependencyManagement/2017_04_05_DependencyManagement.pptx)
+> by [Michael Beck](https://github.com/NoPodi) (4.2017)

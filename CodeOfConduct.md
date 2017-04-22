@@ -37,6 +37,7 @@ Attempt collaboration before conflict.
 Refrain from demeaning, discriminatory, or harassing behavior and speech.
 Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
 Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+All events are held at a third-party location and it's necessary to obey the house rules of each place accordingly. Members make sure to inform themselves about the applying house rules of the location or, in case of doubt, ask one of the organizers for clarification.
 
 ## 4. Unacceptable Behavior
 

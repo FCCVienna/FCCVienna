@@ -1,27 +1,17 @@
-#FCC Vienna Contributing file
+# FCC Vienna Contributing file
 
-If you want to contribute in any form to the FFC Vienna community make sure to act accordingly to the outlined guidelines here. If you think anything is missing get in contact by writing, commenting or opening a pull request
+If you want to contribute in any form to the FFC Vienna community make sure to act accordingly to the outlined guidelines here. If you think anything is missing get in contact by writing, commenting or opening a pull request. :)
 
 ## Table of contents
 
-<!-- toc orderedList:0 depthFrom:1 depthTo:6 -->
-
-* [Table of contents](#table-of-contents)
-* [What should I know before I get started?](#what-should-i-know-before-i-get-started)
-    * [Code of Conduct](#code-of-conduct)
-* [How Can I Contribute?](#how-can-i-contribute)
-    * [Reporting Bugs](#reporting-bugs)
-    * [Suggesting Enhancements](#suggesting-enhancements)
-    * [Your First Code Contribution](#your-first-code-contribution)
-    * [Pull Requests](#pull-requests)
-* [Styleguides](#styleguides)
-    * [Git Commit Messages](#git-commit-messages)
-    * [Documentation/Wiki Styleguide](#documentationwiki-styleguide)
-* [Additional Notes](#additional-notes)
-    * [Issue and Pull Request Labels](#issue-and-pull-request-labels)
-
-<!-- tocstop -->
-
+  * [What should I know before I get started?](#what-should-i-know-before-i-get-started)
+      * [Code of Conduct](#code-of-conduct)
+  * [How Can I Contribute?](#how-can-i-contribute)
+      * [For example](#for-example)
+      * [How?](#how)
+      * [Pull Requests](#pull-requests)
+  * [Styleguides](#styleguides)
+      * [Git Commit Messages](#git-commit-messages)
 
 
 ## What should I know before I get started?
@@ -32,26 +22,31 @@ This project adheres to our [code of conduct](./CodeOfConduct.md). By participat
 
 ## How Can I Contribute?
 
-#### Reporting Bugs
+#### For example
+- reporting bugs of existing code and files
+- suggesting enhancements on existing code or organizational elements
+- bringing up new ideas regarding the goal of our repo
 
-This section guides you through submitting a bug report for FFC Vienna. Following these guidelines helps maintainers and the community understand your report, reproduce the behavior, and find related reports.
-
-Bugs are tracked as GitHub issues. After you've determined which repository your bug is related to, create an issue on that repository and provide the following information by filling in the template.
-
-Explain the problem and include additional details to help maintainers reproduce the problem:
-
+#### How?
+- All sorts of contributions will be managed as an [issue](https://github.com/FCCVienna/FCCVienna/issues) in our repo - always start from here
 - Use a clear and descriptive title for the issue to identify the problem.
 - Describe the exact steps which reproduce the problem in as many details as possible. When listing steps, don't just say what you did, but explain how you did it.
+- When you have already written changes: Push your local branch to the repo and open a [Pull Request](https://github.com/FCCVienna/FCCVienna/pulls). (Add the organizers as Reviewers)
 
-#### Suggesting Enhancements
-
-This section guides you through submitting an enhancement suggestion, including completely new features and minor improvements to existing functionality.
-
-
-#### Your First Code Contribution
 #### Pull Requests
+- Pull requests always have to be reviewed by at least 2 organizers.
+- Describe your changes precisely in a comment.
+- When possible classify the pull request in the corresponding project, milestone and label.
+- When chosen reviewers fail to review the changes, organizers are allowed to merge in order to maintain workflow of the project.
+
 ## Styleguides
+
 #### Git Commit Messages
-#### Documentation/Wiki Styleguide
-## Additional Notes
-#### Issue and Pull Request Labels
+
+Your commit messages should serve these 3 important purposes:
+
+- To speed up the reviewing process.
+- To provide the least amount of necessary documentation
+- To help the future maintainers.
+
+**Keep it short and simple!**

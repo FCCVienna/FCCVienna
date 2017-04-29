@@ -26,12 +26,14 @@ This project adheres to our [code of conduct](./CodeOfConduct.md). By participat
 - reporting bugs of existing code and files
 - suggesting enhancements on existing code or organizational elements
 - bringing up new ideas regarding the goal of our repo
+- add your mob programming ideas
+- improve our mob programming code
 
 #### How?
 - All sorts of contributions will be managed as an [issue](https://github.com/FCCVienna/FCCVienna/issues) in our repo - always start from here
 - Use a clear and descriptive title for the issue to identify the problem.
 - Describe the exact steps which reproduce the problem in as many details as possible. When listing steps, don't just say what you did, but explain how you did it.
-- When you have already written changes: Push your local branch to the repo and open a [Pull Request](https://github.com/FCCVienna/FCCVienna/pulls). (Add the organizers as Reviewers)
+- When you have already written changes: Push your local branch to the repo and open a [Pull Request](http://makeapullrequest.com/). (Add the organizers as Reviewers)
 
 #### Pull Requests
 - Pull requests always have to be reviewed by at least 2 organizers.

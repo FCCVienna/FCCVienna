@@ -49,4 +49,7 @@ Your commit messages should serve these 3 important purposes:
 - To provide the least amount of necessary documentation
 - To help the future maintainers.
 
+Make use of the issue mentions in Github using a `#`. 
+[See example](https://github.com/blog/957-introducing-issue-mentions)
+
 **Keep it short and simple!**

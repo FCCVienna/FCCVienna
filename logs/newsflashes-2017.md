@@ -23,12 +23,15 @@ The lists are curated and also presented during meetups by:
 
 ### 2 main articles
 1. [We asked 20,000 people who they are and how they’re learning to code. Here are the results of our 2017 New Coder Survey](https://fcc.im/2p1yWpv)
-1. 
+1. [JavaScript Jabber, Podcast Ep. 259, Clean Code JavaScript with Ryan McDermott](https://devchat.tv/js-jabber/clean-code-javascript-with-ryan-mcdermott)
 
 ### 6 side articles
 1. [Every single Machine Learning course on the internet, ranked by your reviews](https://fcc.im/2pJRNT3)
 1. [Programming is hard. That’s precisely why you should learn it](https://fcc.im/2qiUazp)
 1. [Google just released a free course on how to build Progressive Web Apps](https://fcc.im/2ppTsz9)
+1. [Yes, React is taking over front-end development. The question is why.i](https://medium.freecodecamp.com/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76)
+1. [NodeConf Barcelona 2017: Diverse, Inspiring, International](https://blog.blended.io/nodeconf-barcelona-2017/)
+1. [YouTube Playlist: JSConf EU 2017](https://www.youtube.com/watch?v=NpKLt_YO3o8&list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_)
 
 
 ## April Newsflash 📰

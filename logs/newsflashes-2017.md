@@ -19,6 +19,16 @@ The lists are curated and also presented during meetups by:
   * [9 side articles](#9-side-articles)
 
 <!-- tocstop -->
+## May Newsflash 📰
+
+### 2 main articles
+1. [We asked 20,000 people who they are and how they’re learning to code. Here are the results of our 2017 New Coder Survey](https://fcc.im/2p1yWpv)
+1. 
+
+### 6 side articles
+1. [Every single Machine Learning course on the internet, ranked by your reviews](https://fcc.im/2pJRNT3)
+1. [Programming is hard. That’s precisely why you should learn it](https://fcc.im/2qiUazp)
+1. [Google just released a free course on how to build Progressive Web Apps](https://fcc.im/2ppTsz9)
 
 
 ## April Newsflash 📰

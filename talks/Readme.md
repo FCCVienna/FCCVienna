@@ -19,3 +19,8 @@
 
 >6.[ Package Management for the Web 101 ⤵️](./2017_04_05_DependencyManagement/2017_04_05_DependencyManagement.pptx)
 > by [Michael Beck](https://github.com/NoPodi) (4.2017)
+
+>7.[
+Level-Up your Career – Become a Focus Manager](https://speakerdeck.com/matuzo/level-up-your-career-become-a-focus-manager) by [Manuel Matuzovic](https://twitter.com/mmatuzo) (5.2017)
+
+>8.[Showcase: Voting App](./2017_05_19_votingapp) by [Mathias List](https://github.com/MatthiasLiszt) (5.2017)

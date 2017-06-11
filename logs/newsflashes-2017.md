@@ -7,18 +7,41 @@ The lists are curated and also presented during meetups by:
 - [Lukas](https://github.com/lukastillmann)
 - [Robert](https://github.com/robeerob)
 
+## Table of content
+
 <!-- toc orderedList:0 depthFrom:1 depthTo:6 -->
 
-## Table of Contents
-
-* [April Newsflash 📰](#april-2017-newsflash)
-  * [3 main articles](#3-main-articles)
-  * [9 side articles](#9-side-articles)
-* [March Newsflash 📰](#april-2017-newsflash)
-  * [3 main articles](#3-main-articles)
-  * [9 side articles](#9-side-articles)
+* [Newsflashes 2017](#newsflashes-2017)
+  * [Table of content](#table-of-content)
+  * [June Newsflash 📰](#june-newsflash)
+    * [2 main articles](#2-main-articles)
+    * [6 side articles](#6-side-articles)
+  * [May Newsflash 📰](#may-newsflash)
+    * [2 main articles](#2-main-articles-1)
+    * [6 side articles](#6-side-articles-1)
+  * [April Newsflash 📰](#april-newsflash)
+    * [3 main articles](#3-main-articles)
+    * [9 side articles](#9-side-articles)
+  * [March Newsflash 📰](#march-newsflash)
+    * [3 main articles](#3-main-articles-1)
+    * [9 side articles](#9-side-articles-1)
 
 <!-- tocstop -->
+
+
+## June Newsflash 📰
+
+### 2 main articles
+1. [Google not, learn not: why searching can sometimes be better than knowing (6 minute read)](https://fcc.im/2qFUaKg)
+
+
+### 6 side articles
+1. [What I learned from coding for 100 days straight (7 minute read)](https://fcc.im/2rloKpL)
+2. [The Important Features and Fixes of Node.js Version 8](https://blog.risingstack.com/important-features-fixes-node-js-version-8/?utm_source=RisingStack+Community&utm_campaign=fcd20481ac-EMAIL_CAMPAIGN_2017_06_02&utm_medium=email&utm_term=0_53474ac0b8-fcd20481ac-474938621)
+2. [What's New in Create React App](https://facebook.github.io/react/blog/2017/05/18/whats-new-in-create-react-app.html?utm_campaign=Fullstack%2BReact&utm_medium=email&utm_source=Fullstack_React_66)
+
+
+
 ## May Newsflash 📰
 
 ### 2 main articles

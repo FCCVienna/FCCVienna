@@ -33,13 +33,16 @@ The lists are curated and also presented during meetups by:
 
 ### 2 main articles
 1. [Google not, learn not: why searching can sometimes be better than knowing (6 minute read)](https://fcc.im/2qFUaKg)
+1. [A React TODOs example, explained (2 minute read)](https://hackernoon.com/a-react-todos-example-explained-6df53cdebed1)
 
 
 ### 6 side articles
 1. [What I learned from coding for 100 days straight (7 minute read)](https://fcc.im/2rloKpL)
 2. [The Important Features and Fixes of Node.js Version 8](https://blog.risingstack.com/important-features-fixes-node-js-version-8/?utm_source=RisingStack+Community&utm_campaign=fcd20481ac-EMAIL_CAMPAIGN_2017_06_02&utm_medium=email&utm_term=0_53474ac0b8-fcd20481ac-474938621)
-2. [What's New in Create React App](https://facebook.github.io/react/blog/2017/05/18/whats-new-in-create-react-app.html?utm_campaign=Fullstack%2BReact&utm_medium=email&utm_source=Fullstack_React_66)
-
+3. [What's New in Create React App](https://facebook.github.io/react/blog/2017/05/18/whats-new-in-create-react-app.html?utm_campaign=Fullstack%2BReact&utm_medium=email&utm_source=Fullstack_React_66)
+4. [A day without Javascript (6 minute read)](https://sonniesedge.co.uk/blog/a-day-without-javascript)
+5. [My JS Story Aimee Knight (40 minute listen)](https://devchat.tv/js-jabber/my-js-story-aimee-knight)
+6. [5 Steps to build a REST API in Node.js with MongoDB (7 minute read)](https://medium.com/@ddcreationstudi/5-steps-to-build-a-rest-api-in-node-js-with-mongodb-e1f2113a39bd)
 
 
 ## May Newsflash 📰

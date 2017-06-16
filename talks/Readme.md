@@ -23,7 +23,7 @@
 >7.[
 Level-Up your Career – Become a Focus Manager](https://speakerdeck.com/matuzo/level-up-your-career-become-a-focus-manager) by [Manuel Matuzovic](https://twitter.com/mmatuzo) (5.2017)
 
->8.[Showcase: Voting App](./src/2017_05_19_votingapp) by [Mathias List](https://github.com/MatthiasLiszt) (5.2017)
+>8.[Showcase: Voting App](./src/2017_05_19_votingapp.odp) by [Mathias List](https://github.com/MatthiasLiszt) (5.2017)
 
 >9.[Complexity and working with incomplete knowledge](https://www.canva.com/design/DACXXIrfcqc/DNBNJb6sN3aWZxlutP-ePA/view?utm_content=DACXXIrfcqc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) by [Edo Rivai](https://github.com/edorivai) (6.2017)
 

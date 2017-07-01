@@ -42,7 +42,7 @@ We are always looking for sponsors to cover free drinks and food, or the space w
 
 ## 📈 Organizer Team
 For feedback, questions or suggestions get in contact with
-- <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/854371/profile/profile-80_2.jpg" height="60"> [Daniel](https://github.com/DDCreationStudios)
+- <img src="https://avatars3.githubusercontent.com/u/22077628?v=3&s=460" height="60"> [Daniel](https://github.com/DDCreationStudios)
 - <img src="https://avatars1.githubusercontent.com/u/17717159?v=3&s=460" height="60"> [Lukas](https://github.com/lukastillmann)
 - <img src="https://avatars3.githubusercontent.com/u/13132899?v=3&s=460" height="60"> [Robert](https://github.com/robeerob)
 

@@ -28,6 +28,15 @@ The lists are curated and also presented during meetups by:
 
 <!-- tocstop -->
 
+## July Newsflash
+
+### Main articles
+1. [How hackathons work, and why you should consider going to one (5 minute read)](https://fcc.im/2tkPM16)
+
+### Side articles
+1. ["The one thing that most helped me become good at coding was helping others learn to code." (1 minute read) ](https://fcc.im/2rG9vam)
+1. [Introduction to Docker](http://blog.scottlowe.org/2014/03/11/a-quick-introduction-to-docker/)
+
 
 ## June Newsflash 📰
 

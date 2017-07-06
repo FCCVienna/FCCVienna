@@ -28,14 +28,18 @@ The lists are curated and also presented during meetups by:
 
 <!-- tocstop -->
 
-## July Newsflash
+## July Newsflash 📰
 
 ### Main articles
 1. [How hackathons work, and why you should consider going to one (5 minute read)](https://fcc.im/2tkPM16)
+2. [Vue.js: a 3-minute interactive introduction (4 minute read)](https://medium.freecodecamp.org/learn-basic-vue-js-crash-course-guide-vue-tutorial-e3da361c635)
 
 ### Side articles
 1. ["The one thing that most helped me become good at coding was helping others learn to code." (1 minute read) ](https://fcc.im/2rG9vam)
-1. [Introduction to Docker](http://blog.scottlowe.org/2014/03/11/a-quick-introduction-to-docker/)
+2. [Introduction to Docker](http://blog.scottlowe.org/2014/03/11/a-quick-introduction-to-docker/)
+3. [GitHub's Open Source Survey](http://opensourcesurvey.org/2017/) and [The Changelog, Podcast Episode #252, GitHub's Open Source Survey (2017)](https://changelog.com/podcast/252)
+4. [🍾🚀 webpack 3: Official Release!! 🚀🍾 (3 minute read)](https://medium.com/webpack/webpack-3-official-release-15fd2dd8f07b)
+5. [Google I/O '17 Talk, V8, Advanced JavaScript, & the Next Performance Frontier (43 minute watch)](https://www.youtube.com/watch?v=EdFDJANJJLs)
 
 
 ## June Newsflash 📰

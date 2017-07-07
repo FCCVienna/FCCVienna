@@ -9,13 +9,11 @@ The lists are curated and also presented during meetups by:
 
 ## Table of content
 
-
-* [Newsflashes 2017](#newsflashes-2017)
-  * [July Newsflash](#july-newsflash)
-  * [June Newsflash](#june-newsflash)
-  * [May Newsflash](#may-newsflash)
-  * [April Newsflash](#april-newsflash)
-  * [March Newsflash](#march-newsflash)
+* [July Newsflash](#july-newsflash)
+* [June Newsflash](#june-newsflash)
+* [May Newsflash](#may-newsflash)
+* [April Newsflash](#april-newsflash)
+* [March Newsflash](#march-newsflash)
 
 
 ## July Newsflash

@@ -9,26 +9,16 @@ The lists are curated and also presented during meetups by:
 
 ## Table of content
 
-<!-- toc orderedList:0 depthFrom:1 depthTo:6 -->
 
 * [Newsflashes 2017](#newsflashes-2017)
-  * [Table of content](#table-of-content)
-  * [June Newsflash 📰](#june-newsflash)
-    * [2 main articles](#2-main-articles)
-    * [6 side articles](#6-side-articles)
-  * [May Newsflash 📰](#may-newsflash)
-    * [2 main articles](#2-main-articles-1)
-    * [6 side articles](#6-side-articles-1)
-  * [April Newsflash 📰](#april-newsflash)
-    * [3 main articles](#3-main-articles)
-    * [9 side articles](#9-side-articles)
-  * [March Newsflash 📰](#march-newsflash)
-    * [3 main articles](#3-main-articles-1)
-    * [9 side articles](#9-side-articles-1)
+  * [July Newsflash](#july-newsflash)
+  * [June Newsflash](#june-newsflash)
+  * [May Newsflash](#may-newsflash)
+  * [April Newsflash](#april-newsflash)
+  * [March Newsflash](#march-newsflash)
 
-<!-- tocstop -->
 
-## July Newsflash 📰
+## July Newsflash
 
 ### Main articles
 1. [How hackathons work, and why you should consider going to one (5 minute read)](https://fcc.im/2tkPM16)
@@ -42,7 +32,7 @@ The lists are curated and also presented during meetups by:
 5. [Google I/O '17 Talk, V8, Advanced JavaScript, & the Next Performance Frontier (43 minute watch)](https://www.youtube.com/watch?v=EdFDJANJJLs)
 
 
-## June Newsflash 📰
+## June Newsflash
 
 ### 2 main articles
 1. [Google not, learn not: why searching can sometimes be better than knowing (6 minute read)](https://fcc.im/2qFUaKg)
@@ -58,7 +48,7 @@ The lists are curated and also presented during meetups by:
 6. [5 Steps to build a REST API in Node.js with MongoDB (7 minute read)](https://medium.com/@ddcreationstudi/5-steps-to-build-a-rest-api-in-node-js-with-mongodb-e1f2113a39bd)
 
 
-## May Newsflash 📰
+## May Newsflash
 
 ### 2 main articles
 1. [We asked 20,000 people who they are and how they’re learning to code. Here are the results of our 2017 New Coder Survey](https://fcc.im/2p1yWpv)
@@ -73,7 +63,7 @@ The lists are curated and also presented during meetups by:
 1. [YouTube Playlist: JSConf EU 2017](https://www.youtube.com/watch?v=NpKLt_YO3o8&list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_)
 
 
-## April Newsflash 📰
+## April Newsflash
 
 ### 3 main articles
 1. [How I got a second degree and earned 5 developer certifications in just one year, while working and raising two kids](http://bit.ly/2mw4X85)
@@ -92,7 +82,7 @@ The lists are curated and also presented during meetups by:
 1. [12 Extremely Useful Hacks for JavaScript](https://medium.com/startup-grind/12-extremely-useful-hacks-for-javascript-278567de270)
 
 
-## March Newsflash 📰
+## March Newsflash
 
 ### 3 main articles
 1. [How a single programmer changed the music industry](http://bit.ly/2lP7iKf)

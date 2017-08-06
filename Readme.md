@@ -4,12 +4,14 @@
 # Vienna Local Meetup Group [![Join the gitter chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/FCCVienna/Lobby) [![Free Code Camp](https://img.shields.io/badge/Official%20Site-Free%20Code%20Camp-brightgreen.svg?style=plastic)](https://github.com/freeCodeCamp/freeCodeCamp)
 
 #### 📄 FCC Vienna -  Table of contents:
-  * [Our Goals](#our-goals)
-  * [Online Platforms](#online-platforms)
-  * [Standard Program Options](#standard-program-options)
-  * [Sponsors](#sponsors)
-  * [Organizer Team](#organizer-team)
-  * [License](#license)
+
+  - [Our Goals](#🚩-our-goals)
+  - [Online Platforms](#📨-online-platforms)
+  - [Standard Program Options](#📂-standard-program-options)
+  - [Sponsors](#💸-sponsors)
+  - [Organizer Team](#📈-organizer-team)
+  - [License](#📈-organizer-team)
+
 
 ---
 ####  🎉🚀 Check [Meetup.com](https://www.meetup.com/de-DE/Free-Code-Camp-Vienna/) for the latest meetups in Vienna! 🚀🎉
@@ -20,9 +22,10 @@ Connecting people with similar ambitions in real life and provide a platform for
 ## 📨 Online Platforms
 Find us also on the following platforms:
 * [Meetup.com](https://www.meetup.com/de-DE/Free-Code-Camp-Vienna/) - setting the meetup framework and information
-* [facebook](https://www.facebook.com/groups/free.code.camp.vienna.austria) - providing information, updates and content exchange for the community
-* [twitter](https://twitter.com/freecodecampvie) - providing recent updates for the community
-* [gitter.im](https://gitter.im/FCCVienna/Lobby) - our main communication channel
+* [Facebook](https://www.facebook.com/groups/free.code.camp.vienna.austria) - providing information, updates and content exchange for the community
+* [Twitter](https://twitter.com/freecodecampvie) - providing recent updates for the community
+* [Gitter.im](https://gitter.im/FCCVienna/Lobby) - our main communication channel
+* [Instagram](https://www.instagram.com/freecodecamp_vienna/) - documentation in pictures
 
 ## 📂 Standard Program Options
 Basic ideas for each meetup:

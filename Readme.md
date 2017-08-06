@@ -5,21 +5,21 @@
 
 #### 📄 FCC Vienna -  Table of contents:
 
-  - [Our Goals](#🚩-our-goals)
-  - [Online Platforms](#📨-online-platforms)
-  - [Standard Program Options](#📂-standard-program-options)
-  - [Sponsors](#💸-sponsors)
-  - [Organizer Team](#📈-organizer-team)
-  - [License](#📈-organizer-team)
+  - [Our Goals](#our-goals)
+  - [Online Platforms](#online-platforms)
+  - [Standard Program Options](#standard-program-options)
+  - [Sponsors](#sponsors)
+  - [Organizer Team](#organizer-team)
+  - [License](#organizer-team)
 
 
 ---
 ####  🎉🚀 Check [Meetup.com](https://www.meetup.com/de-DE/Free-Code-Camp-Vienna/) for the latest meetups in Vienna! 🚀🎉
 ---
-## 🚩 Our Goals
+## Our Goals
 Connecting people with similar ambitions in real life and provide a platform for exchange and improvement. Everybody with an interest in coding is welcome. We are leading the local FCC Group in **Vienna** and provide monthly meetups for members. Checkout the [program](#standard-program-options).
 
-## 📨 Online Platforms
+## Online Platforms
 Find us also on the following platforms:
 * [Meetup.com](https://www.meetup.com/de-DE/Free-Code-Camp-Vienna/) - setting the meetup framework and information
 * [Facebook](https://www.facebook.com/groups/free.code.camp.vienna.austria) - providing information, updates and content exchange for the community
@@ -27,7 +27,7 @@ Find us also on the following platforms:
 * [Gitter.im](https://gitter.im/FCCVienna/Lobby) - our main communication channel
 * [Instagram](https://www.instagram.com/freecodecamp_vienna/) - documentation in pictures
 
-## 📂 Standard Program Options
+## Standard Program Options
 Basic ideas for each meetup:
 * Showcase
   * A person guiding the audience through a codebase they are currently working on.
@@ -40,10 +40,10 @@ Basic ideas for each meetup:
   * FCC Algorithms
   * Other small Algorithms
 
-## 💸 Sponsors
+## Sponsors
 We are always looking for sponsors to cover free drinks and food, or the space where we can host our meetups! Get in contact with one of the [organizers](#organizer-team) to discuss further details.
 
-## 📈 Organizer Team
+## Organizer Team
 For feedback, questions or suggestions get in contact with
 - <img src="https://avatars3.githubusercontent.com/u/22077628?v=3&s=460" height="60"> [Daniel](https://github.com/DDCreationStudios)
 - <img src="https://avatars3.githubusercontent.com/u/13132899?v=3&s=460" height="60"> [Robert](https://github.com/robeerob)

@@ -1,9 +1,13 @@
+<h1 align=center>
+<a href="https://fccvienna.github.io/">
 <img src="./graphics/banner_8.17_facebook.jpeg?raw=true" height="" align="right">
+</a>
+<a href="https://github.com/freeCodeCamp/freeCodeCamp">Free Code Camp</a>
+</h1>
 
-## Free Code Camp
-# Vienna Local Meetup Group [![Join the gitter chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/FCCVienna/Lobby) [![Free Code Camp](https://img.shields.io/badge/Official%20Site-Free%20Code%20Camp-brightgreen.svg?style=plastic)](https://github.com/freeCodeCamp/freeCodeCamp)
+# Vienna Local Meetup Group [![Join the gitter chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/FCCVienna/Lobby) [![Free Code Camp](https://img.shields.io/badge/Official%20Site-FreeCodeCamp-brightgreen.svg?style=plastic)](https://github.com/freeCodeCamp/freeCodeCamp)
 
-#### 📄 FCC Vienna -  Table of contents:
+#### 📄 Table of contents:
 
   - [Our Goals](#our-goals)
   - [Online Platforms](#online-platforms)

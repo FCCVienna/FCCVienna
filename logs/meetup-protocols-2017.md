@@ -20,3 +20,11 @@
    - Other ideas were: Coding news, book presentations, more moderated discussions
 * Size
    - The size of our community should be stimulated naturally and not forced to get bigger.
+
+## 2017-08 Protocol
+
+- Next meetups: location, lineups, content
+- evaluating past events
+- reviewing homepage
+- evaluating marketing: facebook, meetup.com, twitter. add newsletter and instagram? using new marketing tools
+- getting more people to contribute - set up rules

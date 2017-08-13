@@ -4,17 +4,16 @@ The newsflash section contains articles from different newsletters that we regar
 
 The lists are curated and also presented during meetups by:
 - [Daniel](https://github.com/DDCreationStudios)
-- [Lukas](https://github.com/lukastillmann)
 - [Robert](https://github.com/robeerob)
 
-## Table of content
+## August Newsflash
 
-* [July Newsflash](#july-newsflash)
-* [June Newsflash](#june-newsflash)
-* [May Newsflash](#may-newsflash)
-* [April Newsflash](#april-newsflash)
-* [March Newsflash](#march-newsflash)
+### Main articles
+1. [Stop Consuming. Start Creating.](https://medium.com/the-mission/stop-consuming-start-creating-f992bf66f7e0)
 
+### Side articles
+1. [Publishing an organization homepage in Github Pages](https://medium.com/@ddcreationstudi/publishing-an-organization-homepage-on-github-pages-347dbd700f4e)
+2. [Why striving for perfection might be holding you back as a developer (4 minute read)](https://fcc.im/2vVuqvN)
 
 ## July Newsflash
 

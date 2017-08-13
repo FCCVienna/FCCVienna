@@ -2,11 +2,35 @@
 
 ## 2017-08 Protocol
 
+- ReactiveConf 
+   - give away of goodies on next meetup
+announcing give-away and talk about reactiveConf
+
 - Next meetups: location, lineups, content
-- evaluating past events
+   - pusher video session
+   - rob and daniel have a talk about “from self-taught programmer to job” like https://www.youtube.com/watch?v=0SARbwvhupQ&t=4s
+   - talk
+   - programming on the homepage
+   - quaterly more than a meetup - set up a “mini hackaton” with companies
+   - organize company tours 
+
 - reviewing homepage
-- evaluating marketing: facebook, meetup.com, twitter. add newsletter and instagram? using new marketing tools
+   - great
+
+- evaluating past events
+   - set up guidelines for talks
+   - moderate the time of talks
+
+- evaluating outreach/exposure: facebook, meetup.com, twitter. add newsletter and instagram? using new marketing tools
+   - set up a newsletter, use mailchimp?
+   - remove facebook approval
+
 - getting more people to contribute - set up rules
+   - describe “job offers” like
+   -  social media manager
+   -  mail manager
+   -  github manager
+   -  goal manager
 
 
 ## 2017-02 Protocol

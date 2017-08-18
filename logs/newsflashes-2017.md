@@ -9,11 +9,15 @@ The lists are curated and also presented during meetups by:
 ## August Newsflash
 
 ### Main articles
-1. [Stop Consuming. Start Creating.](https://medium.com/the-mission/stop-consuming-start-creating-f992bf66f7e0)
+1. [Stop Consuming. Start Creating. (3 minute read)](https://medium.com/the-mission/stop-consuming-start-creating-f992bf66f7e0)
+2. [Being a Software Developer Sucks! (15 minute read / 23 minute video)](https://guyrobottv.wordpress.com/2017/03/14/being-a-software-developer-sucks/)
 
 ### Side articles
-1. [Publishing an organization homepage in Github Pages](https://medium.com/@ddcreationstudi/publishing-an-organization-homepage-on-github-pages-347dbd700f4e)
+1. [Publishing an organization homepage in Github Pages (3 minute read)](https://medium.com/@ddcreationstudi/publishing-an-organization-homepage-on-github-pages-347dbd700f4e)
 2. [Why striving for perfection might be holding you back as a developer (4 minute read)](https://fcc.im/2vVuqvN)
+3. [Reddit Post: Don't trust the extremes.](https://www.reddit.com/r/cscareerquestions/comments/6tista/dont_trust_the_extremes/)
+4. [People Should Really Be Thankful For Free Software Developers (4 minute read)](https://fosspost.org/opinions/people-be-thankful-for-free-software-developers)
+5. [Announcing the State of JavaScript 2017 Survey (3 minute read)](https://medium.freecodecamp.org/announcing-the-state-of-javascript-2017-survey-13e8742270d5)
 
 ## July Newsflash
 

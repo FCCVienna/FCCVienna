@@ -2,6 +2,20 @@
 
 ## 2017-08 Protocol
 
+### At the meetup
+
+- when carrying out tutorial
+   - provide example repository
+   - provide documentation
+   - keep "fast" pacing speed (prioritize the group instead of the individual - help out afterwards)
+   - tutorial should be the last tier of the program
+   - keep tutorial on 40min max
+   
+- inform members about licenses for using pictures in their presentations
+
+
+### Organizer Meeting
+
 - ReactiveConf 
    - give away of goodies on next meetup
 announcing give-away and talk about reactiveConf

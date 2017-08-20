@@ -29,5 +29,7 @@ Level-Up your Career – Become a Focus Manager](https://speakerdeck.com/matuzo/
 
 >11.[Programming: AI Battle](https://github.com/FCCVienna/ai-battle) by [Edo Rivai](https://github.com/edorivai) (7.2017)
 
+>12.[Introduction to Linux, Git and Python](https://github.com/bonny3d/meetup_180817/blob/master/FreeCodeCamp_presentation.ipynb) by [Bonny Dongre](https://www.linkedin.com/in/bonny-dongre-8430b811/) (8.2017)
+
 
 

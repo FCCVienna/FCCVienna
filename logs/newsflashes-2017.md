@@ -10,11 +10,17 @@ The lists are curated and also presented during meetups by:
 
 ### Main articles
 1. [How I replicated an $86 million project in 57 lines of code (5 minute read)](https://medium.freecodecamp.org/how-i-replicated-an-86-million-project-in-57-lines-of-code-277031330ee9)
+2. [Learnings from my first full-stack app in JavaScript (5min read)](https://medium.com/@ddcreationstudi/learnings-from-my-first-full-stack-app-in-javascript-fbb5656af39f)
 
 ### Side articles
 1. [The Life-Changing Habit of Starting Your Day With Clarity And Purpose (4 minute read)](https://medium.com/personal-growth/the-life-changing-habit-of-starting-your-day-with-clarity-and-purpose-b90cb80eb7f)
 2. [21 Things I Wish Someone Told Me as a Young Founder (7 minute read)](https://hackernoon.com/21-things-i-wish-someone-told-me-as-a-young-founder-b5dc6bb92d49)
 3. [Why we moved from Angular 2 to Vue.js (and why we didn’t choose React) (9 minute read)](https://medium.com/reverdev/why-we-moved-from-angular-2-to-vue-js-and-why-we-didnt-choose-react-ef807d9f4163)
+4. [12 cool things you can do with GitHub](https://hackernoon.com/12-cool-things-you-can-do-with-github-f3e0424cf2f0)
+5. [Code Calligraph VS Code Chicken Scratch
+](https://medium.freecodecamp.org/what-is-shitty-code-handwriting-ae7c00708b)
+6. [Good Practices for Testing React Apps
+](https://medium.com/@TuckerConnelly/good-practices-for-testing-react-apps-3a64154fa3b1)
 
 ## August Newsflash
 

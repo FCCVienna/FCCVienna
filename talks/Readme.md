@@ -31,5 +31,9 @@ Level-Up your Career – Become a Focus Manager](https://speakerdeck.com/matuzo/
 
 >12.[Introduction to Linux, Git and Python](https://github.com/bonny3d/meetup_180817/blob/master/FreeCodeCamp_presentation.ipynb) by [Bonny Dongre](https://www.linkedin.com/in/bonny-dongre-8430b811/) (8.2017)
 
+>13.[From self-taught programmer to job](https://fccvienna.github.io/selftaughtToJob/) by [Daniel Deutsch](http://www.createdd.com/) and [Robert Axelsen](http://rob.ee/) (9.2017)
+
+>14.[How to write maintainable code](./src/2017-09_how_to_write_maintainable_code.pdf) by [Michael Köppl](https://twitter.com/rettetdemdativ) (9.2017)
+
 
 

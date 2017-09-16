@@ -29,7 +29,6 @@ Find us also on the following platforms:
 * [Facebook](https://www.facebook.com/groups/free.code.camp.vienna.austria) - providing information, updates and content exchange for the community
 * [Twitter](https://twitter.com/freecodecampvie) - providing recent updates for the community
 * [Gitter.im](https://gitter.im/FCCVienna/Lobby) - our main communication channel
-* [Instagram](https://www.instagram.com/freecodecamp_vienna/) - documentation in pictures
 
 ## Standard Program Options
 Basic ideas for each meetup:
@@ -48,6 +47,9 @@ Basic ideas for each meetup:
 We are always looking for sponsors to cover free drinks and food, or the space where we can host our meetups! Get in contact with one of the [organizers](#organizer-team) to discuss further details.
 
 ## Organizer Team
+
+The FreeCodeCamp Vienna Meetup is organized by the Verein "DevelopersRising - Verein zur Förderung von ProgrammiererInnen". 
+
 For feedback, questions or suggestions get in contact with
 - <img src="https://avatars3.githubusercontent.com/u/22077628?v=3&s=460" height="60"> [Daniel](https://github.com/DDCreationStudios)
 - <img src="https://avatars3.githubusercontent.com/u/13132899?v=3&s=460" height="60"> [Robert](https://github.com/robeerob)

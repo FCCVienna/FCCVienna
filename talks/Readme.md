@@ -25,7 +25,7 @@ Level-Up your Career – Become a Focus Manager](https://speakerdeck.com/matuzo/
 
 9.[Complexity and working with incomplete knowledge](https://www.canva.com/design/DACXXIrfcqc/DNBNJb6sN3aWZxlutP-ePA/view?utm_content=DACXXIrfcqc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) by [Edo Rivai](https://github.com/edorivai) (6.2017)
 
-10.[Building dynamic webpages with JavaScript](https://github.com/MatthiasLiszt/tictactoeasdynamicwebpagewithvanillajs/blob/master/dynamicvanillatalk.odp) by [Mathias List](https://github.com/MatthiasLiszt) (7.2017)
+10.[Building dynamic webpages with JavaScript](https://github.com/MatthiasLiszt/tictactoeasdynamicwebpagewithvanillajs/blob/master/dynamicvanillatalk.odp) by [Matthias Liszt](https://github.com/MatthiasLiszt) (7.2017)
 
 11.[Programming: AI Battle](https://github.com/FCCVienna/ai-battle) by [Edo Rivai](https://github.com/edorivai) (7.2017)
 
@@ -35,5 +35,6 @@ Level-Up your Career – Become a Focus Manager](https://speakerdeck.com/matuzo/
 
 14.[How to write maintainable code](./src/2017-09_how_to_write_maintainable_code.pdf) by [Michael Köppl](https://twitter.com/rettetdemdativ) (9.2017)
 
+15.[Wallpaper Tessellation With SVG](./src/2017-10-xx-wallpaper.odp) by [Matthias Liszt](https://github.com/MatthiasLiszt/wallpapertessellation) (10.2017)
 
 

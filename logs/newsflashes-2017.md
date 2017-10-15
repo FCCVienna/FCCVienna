@@ -6,6 +6,20 @@ The lists are curated and also presented during meetups by:
 - [Daniel](https://github.com/DDCreationStudios)
 - [Robert](https://github.com/robeerob)
 
+## October Newsflash
+
+### Main articles
+1. [How to think like a programmer - a step-by-step guide to approaching projects and coding challenges (9 minute read)](https://fcc.im/2kKi8RZ)
+
+
+### Side articles
+1. [Here are 500 free online programming and computer science courses you can start in October (1 to 30 minutes to browse)](https://fcc.im/2yjrWYG)
+1. [React 16: A look inside an API-compatible rewrite of our frontend UI library](https://code.facebook.com/posts/1716776591680069/react-16-a-look-inside-an-api-compatible-rewrite-of-our-frontend-ui-library/)
+1. [
+Teachable Machine (Google)](https://teachablemachine.withgoogle.com/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI)
+1. [What is This in JavaScript?](https://developer.telerik.com/topics/web-development/what-is-this-in-javascript/)
+
+
 ## September Newsflash
 
 ### Main articles

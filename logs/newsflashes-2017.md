@@ -10,7 +10,7 @@ The lists are curated and also presented during meetups by:
 
 ### Main articles
 1. [How to think like a programmer - a step-by-step guide to approaching projects and coding challenges (9 minute read)](https://fcc.im/2kKi8RZ)
-1. [GitHub Developer Stories](https://github.com/developer-stories)
+1. [GitHub Developer Stories (video series)](https://github.com/developer-stories)
 
 ### Side articles
 1. [Here are 500 free online programming and computer science courses you can start in October (1 to 30 minutes to browse)](https://fcc.im/2yjrWYG)
@@ -18,10 +18,10 @@ The lists are curated and also presented during meetups by:
 1. [
 Teachable Machine (Google)](https://teachablemachine.withgoogle.com/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI)
 1. [What is This in JavaScript?](https://developer.telerik.com/topics/web-development/what-is-this-in-javascript/)
-1. [How we grow junior developers at the BBC](https://medium.com/bbc-design-engineering/how-we-grow-junior-developers-at-the-bbc-dc3054f7e390)
+1. [How we grow junior developers at the BBC (8 minute read)](https://medium.com/bbc-design-engineering/how-we-grow-junior-developers-at-the-bbc-dc3054f7e390)
 1. [Programming Loops vs Recursion (12 minute video)](https://www.youtube.com/watch?v=HXNhEYqFo0o)
-1. [A.G. Schneiderman Announces $375,000 Settlement With Flatiron Computer Coding School](https://ag.ny.gov/press-release/ag-schneiderman-announces-375000-settlement-flatiron-computer-coding-school-operating)
-1. [Between the Wires: An interview with open source developer Sindre Sorhus (15 minute read )](https://medium.freecodecamp.org/sindre-sorhus-8426c0ed785d)
+1. [A.G. Schneiderman Announces $375,000 Settlement With Flatiron Computer Coding School (4 minute read)](https://ag.ny.gov/press-release/ag-schneiderman-announces-375000-settlement-flatiron-computer-coding-school-operating)
+1. [Between the Wires: An interview with open source developer Sindre Sorhus (15 minute read)](https://medium.freecodecamp.org/sindre-sorhus-8426c0ed785d)
 
 
 ## September Newsflash

@@ -54,6 +54,8 @@ For feedback, questions or suggestions get in contact with
 - <img src="https://avatars3.githubusercontent.com/u/22077628?v=3&s=460" height="60"> [Daniel](https://github.com/DDCreationStudios)
 - <img src="https://avatars3.githubusercontent.com/u/13132899?v=3&s=460" height="60"> [Robert](https://github.com/robeerob)
 
+See some of our [open positions here](https://github.com/DevelopersRising/DevelopersRising/blob/master/docs/Positions.md).
+
 You can also open an issue and mention one of us. 😄
 
 ## License [![License](https://img.shields.io/badge/License-BSD%203--Clause-red.svg)](https://opensource.org/licenses/BSD-3-Clause) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-red.svg)](http://creativecommons.org/licenses/by-sa/4.0/)

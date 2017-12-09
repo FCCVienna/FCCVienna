@@ -5,7 +5,33 @@ The newsflash section contains articles from different newsletters that we regar
 The lists are curated and also presented during meetups by:
 - [Daniel](https://github.com/DDCreationStudios)
 - [Robert](https://github.com/robeerob)
+---
+## TOC
+  - [December Newsflash](#december-newsflash)
+  - [October Newsflash](#october-newsflash)
+  - [September Newsflash](#september-newsflash)
+  - [August Newsflash](#august-newsflash)
+  - [July Newsflash](#july-newsflash)
+  - [June Newsflash](#june-newsflash)
+  - [May Newsflash](#may-newsflash)
+  - [April Newsflash](#april-newsflash)
+  - [March Newsflash](#march-newsflash)
 
+---
+## December Newsflash
+
+### Main articles
+1.  [How did I land my first job as a self-taught developer? I prepared like crazy (6 minute read)](https://fcc.im/2iDU67l)
+1. []()
+
+### Side articles
+1. [Introduction to machine learning (high quality course from Stanford university)](https://www.coursera.org/learn/machine-learning)
+1. [An introduction for webpack](https://auth0.com/blog/webpack-a-gentle-introduction/)
+1. []()
+1. []()
+---
+## No November Newsflash (Just coding)
+---
 ## October Newsflash
 
 ### Main articles
@@ -23,7 +49,7 @@ Teachable Machine (Google)](https://teachablemachine.withgoogle.com/?utm_campaig
 1. [A.G. Schneiderman Announces $375,000 Settlement With Flatiron Computer Coding School (4 minute read)](https://ag.ny.gov/press-release/ag-schneiderman-announces-375000-settlement-flatiron-computer-coding-school-operating)
 1. [Between the Wires: An interview with open source developer Sindre Sorhus (15 minute read)](https://medium.freecodecamp.org/sindre-sorhus-8426c0ed785d)
 
-
+---
 ## September Newsflash
 
 ### Main articles
@@ -40,6 +66,7 @@ Teachable Machine (Google)](https://teachablemachine.withgoogle.com/?utm_campaig
 6. [Good Practices for Testing React Apps
 ](https://medium.com/@TuckerConnelly/good-practices-for-testing-react-apps-3a64154fa3b1)
 
+---
 ## August Newsflash
 
 ### Main articles
@@ -53,6 +80,7 @@ Teachable Machine (Google)](https://teachablemachine.withgoogle.com/?utm_campaig
 4. [People Should Really Be Thankful For Free Software Developers (4 minute read)](https://fosspost.org/opinions/people-be-thankful-for-free-software-developers)
 5. [Announcing the State of JavaScript 2017 Survey (3 minute read)](https://medium.freecodecamp.org/announcing-the-state-of-javascript-2017-survey-13e8742270d5)
 
+---
 ## July Newsflash
 
 ### Main articles
@@ -66,7 +94,7 @@ Teachable Machine (Google)](https://teachablemachine.withgoogle.com/?utm_campaig
 4. [🍾🚀 webpack 3: Official Release!! 🚀🍾 (3 minute read)](https://medium.com/webpack/webpack-3-official-release-15fd2dd8f07b)
 5. [Google I/O '17 Talk, V8, Advanced JavaScript, & the Next Performance Frontier (43 minute watch)](https://www.youtube.com/watch?v=EdFDJANJJLs)
 
-
+---
 ## June Newsflash
 
 ### 2 main articles
@@ -82,7 +110,7 @@ Teachable Machine (Google)](https://teachablemachine.withgoogle.com/?utm_campaig
 5. [My JS Story Aimee Knight (40 minute listen)](https://devchat.tv/js-jabber/my-js-story-aimee-knight)
 6. [5 Steps to build a REST API in Node.js with MongoDB (7 minute read)](https://medium.com/@ddcreationstudi/5-steps-to-build-a-rest-api-in-node-js-with-mongodb-e1f2113a39bd)
 
-
+---
 ## May Newsflash
 
 ### 2 main articles
@@ -97,7 +125,7 @@ Teachable Machine (Google)](https://teachablemachine.withgoogle.com/?utm_campaig
 1. [NodeConf Barcelona 2017: Diverse, Inspiring, International](https://blog.blended.io/nodeconf-barcelona-2017/)
 1. [YouTube Playlist: JSConf EU 2017](https://www.youtube.com/watch?v=NpKLt_YO3o8&list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_)
 
-
+---
 ## April Newsflash
 
 ### 3 main articles
@@ -116,7 +144,7 @@ Teachable Machine (Google)](https://teachablemachine.withgoogle.com/?utm_campaig
 1. [Yes, React is taking over front-end development. The question is why?](https://medium.freecodecamp.com/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76)
 1. [12 Extremely Useful Hacks for JavaScript](https://medium.com/startup-grind/12-extremely-useful-hacks-for-javascript-278567de270)
 
-
+---
 ## March Newsflash
 
 ### 3 main articles

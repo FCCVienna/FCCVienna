@@ -27,7 +27,7 @@ The lists are curated and also presented during meetups by:
 ### Side articles
 1. [Introduction to machine learning (high quality course from Stanford university)](https://www.coursera.org/learn/machine-learning)
 1. [An introduction for webpack](https://auth0.com/blog/webpack-a-gentle-introduction/)
-1. []()
+1. [If you're a new programmer I just want you to know...](https://twitter.com/oliviacpu/status/940761127121715200)
 1. []()
 ---
 ## No November Newsflash (Just coding)

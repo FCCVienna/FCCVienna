@@ -21,14 +21,14 @@ The lists are curated and also presented during meetups by:
 ## December Newsflash
 
 ### Main articles
-1.  [How did I land my first job as a self-taught developer? I prepared like crazy (6 minute read)](https://fcc.im/2iDU67l)
-1. []()
+1. [How did I land my first job as a self-taught developer? I prepared like crazy (6 minute read)](https://fcc.im/2iDU67l)
+1. [The fight for net neutrality has only just begun](https://github.com/save-net-neutrality)
 
 ### Side articles
 1. [Introduction to machine learning (high quality course from Stanford university)](https://www.coursera.org/learn/machine-learning)
 1. [An introduction for webpack](https://auth0.com/blog/webpack-a-gentle-introduction/)
-1. [If you're a new programmer I just want you to know...](https://twitter.com/oliviacpu/status/940761127121715200)
-1. []()
+1. [If you're a new programmer I just want you to know... (1 min tweet)](https://twitter.com/oliviacpu/status/940761127121715200)
+1. [Blockchain Expert Explains One Concept in 5 Levels of Difficulty (18 min video)](https://www.youtube.com/watch?v=hYip_Vuv8J0)
 ---
 ## No November Newsflash (Just coding)
 ---

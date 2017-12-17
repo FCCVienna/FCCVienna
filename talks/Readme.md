@@ -37,4 +37,4 @@ Level-Up your Career – Become a Focus Manager](https://speakerdeck.com/matuzo/
 
 15.[Wallpaper Tessellation With SVG](./src/2017-10-xx-wallpaper.odp) by [Matthias Liszt](https://github.com/MatthiasLiszt/wallpapertessellation) (10.2017)
 
-16.[Global CSS Scope - Modularize CSS](./src/2017-12-16-Modularize-CSS-Commented.pptx) by [Alexander Silberschneider](https://github.com/asilberschneider) (12.2017) ([pdf])(./src/2017-12-16-Modularize-CSS-Commented.pdf)
+16.[Global CSS Scope - Modularize CSS](./src/2017-12-16-Modularize-CSS-Commented.pptx) by [Alexander Silberschneider](https://github.com/asilberschneider) (12.2017) [(pdf)](./src/2017-12-16-Modularize-CSS-Commented.pdf)

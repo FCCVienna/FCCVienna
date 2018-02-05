@@ -10,6 +10,14 @@ The lists are curated and also presented during meetups by:
   - [January Newsflash](#january-newsflash)
 
 ---
+## February Newsflash
+
+### Main articles
+1. [Senior developers: unblocking and being a force multiplier to the junior ... (tweet)](https://twitter.com/stevekinney/status/959127713356374016)
+
+### Side articles
+1. []()
+---
 ## January Newsflash
 
 ### Main articles
@@ -22,3 +30,4 @@ The lists are curated and also presented during meetups by:
 1. [The #2018Liberation Listi (2 min read)](https://medium.com/@catehstn/the-2018liberation-list-4e229bdbb919)
 1. [BONUS: Build Your Own Blockchains in JavaScript for Fun (and Profit)! (21 min video)](https://pusher.com/sessions/meetup/viennajs/build-your-own-blockchains-in-javascript-for-fun-and-profit)
 ---
+

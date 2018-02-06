@@ -16,7 +16,7 @@ The lists are curated and also presented during meetups by:
 1. [Senior developers: unblocking and being a force multiplier to the junior ... (tweet)](https://twitter.com/stevekinney/status/959127713356374016)
 
 ### Side articles
-1. []()
+1. [Here's a quick example of me pushing a #threejs cube just by thinking about it! (tweet with gif)](https://twitter.com/devdevcharlie/status/958090220779352064)
 ---
 ## January Newsflash
 

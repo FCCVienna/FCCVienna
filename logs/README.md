@@ -3,6 +3,7 @@
 The logs section of the [FCCVienna repository](https://github.com/FCCVienna/FCCVienna) contains meeting protocols and news flashes:
 - [Meeting Protocols for the FCCVienna Meetups in 2017](meetup-protocols-2017.md)
 - [Newsflashes 2017](newsflashes-2017.md)
+- [Newsflashes 2018](newsflashes-2018.md)
 
 ## Motivation
 

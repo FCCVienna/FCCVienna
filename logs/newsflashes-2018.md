@@ -17,12 +17,14 @@ The lists are curated and also presented during meetups by:
 
 ### Main articles
 1. [How Zhia Hwa landed offers for developer jobs from Microsoft, Amazon, and Twitter - all without an Ivy League degree - just a ton of hard work (18 minute read)](https://fcc.im/2F9ZQCS)
-
+1. [Frontend in 2018: More consensus, less complexity](https://blog.logrocket.com/what-im-looking-for-from-frontend-in-2018-2f1de300b548)
 
 
 ### Side articles
 1. [An 8-minute guide to GitHub and how developers use it to share code (8 minute read)](https://fcc.im/2oBIFjg)
 1. [Meet my Free, Local API Server for your Front-End Adventures (written in Node.js)!](https://blog.risingstack.com/free-local-api-server-nodejs/?utm_source=RisingStack+Community&utm_campaign=ae63eff7e0-EMAIL_CAMPAIGN_2018_02_27&utm_medium=email&utm_term=0_53474ac0b8-ae63eff7e0-474938621)
+1. [Who Killed The Junior Developer?](https://medium.com/@melissamcewen/who-killed-the-junior-developer-33e9da2dc58c)
+1. [Why I Quit Google to Work for Myself](https://mtlynch.io/why-i-quit-google/)
 
 ---
 ## February Newsflash

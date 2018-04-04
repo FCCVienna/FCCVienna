@@ -8,9 +8,23 @@ The lists are curated and also presented during meetups by:
 ---
 ## TOC
 
+  - [April Newsflash](#april-newsflash)
   - [March Newsflash](#march-newsflash)
   - [February Newsflash](#february-newsflash)
   - [January Newsflash](#january-newsflash)
+
+---
+## April Newsflash
+
+### Main articles
+1. [Here are examples of everything new in ECMAScript 2016, 2017, and 2018)](https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e)
+
+
+### Side articles
+1. [JavaScript vs. TypeScript vs. ReasonML: Pros and Cons ](http://2ality.com/2018/03/javascript-typescript-reasonml.html)
+1. [React Tutorial: A Comprehensive Guide to learning React.js in 2018](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
+1. [Awesome Developer Streams](https://github.com/bnb/awesome-developer-streams#readme)
+
 
 ---
 ## March Newsflash

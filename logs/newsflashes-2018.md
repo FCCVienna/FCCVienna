@@ -18,12 +18,16 @@ The lists are curated and also presented during meetups by:
 
 ### Main articles
 1. [Here are examples of everything new in ECMAScript 2016, 2017, and 2018)](https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e)
-
+1. [Podcast Episode: Building a Life-Changing Business with Austen Allred of Lambda School (77 min listen)](https://www.indiehackers.com/podcast/046-austen-allred-of-lambda-school)
 
 ### Side articles
 1. [JavaScript vs. TypeScript vs. ReasonML: Pros and Cons ](http://2ality.com/2018/03/javascript-typescript-reasonml.html)
 1. [React Tutorial: A Comprehensive Guide to learning React.js in 2018](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
 1. [Awesome Developer Streams](https://github.com/bnb/awesome-developer-streams#readme)
+1. [EU wants to require platforms to filter uploaded content (including code) (2 min read)](https://blog.github.com/2018-03-14-eu-proposal-upload-filters-code/)
+1. [Insights from Stack Overflow’s 2018 survey of 100,000 developersi (6 min read)](https://medium.freecodecamp.org/stack-overflow-2018-developer-survey-faac8d3eb357)
+1. [cd is Wasting Your Time (6 min read)](https://olivierlacan.com/posts/cd-is-wasting-your-time/)
+1. [BONUS: 2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018/)
 
 
 ---

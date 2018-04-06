@@ -18,7 +18,7 @@ The lists are curated and also presented during meetups by:
 
 ### Main articles
 1. [Here are examples of everything new in ECMAScript 2016, 2017, and 2018)](https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e)
-1. [Podcast Episode: Building a Life-Changing Business with Austen Allred of Lambda School (77 min listen)](https://www.indiehackers.com/podcast/046-austen-allred-of-lambda-school)
+1. [Podcast Episode: From Fledgling Founder to 7-Figure Deals with Stephanie Hurlburt of Binomial (72 min listen)](https://www.indiehackers.com/podcast/044-stephanie-hurlburt-of-binomial)
 
 ### Side articles
 1. [JavaScript vs. TypeScript vs. ReasonML: Pros and Cons ](http://2ality.com/2018/03/javascript-typescript-reasonml.html)

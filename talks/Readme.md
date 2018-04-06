@@ -42,3 +42,5 @@ Level-Up your Career – Become a Focus Manager](https://speakerdeck.com/matuzo/
 17.[Introduction to Vue.js](http://slides.com/robertaxelsen/vuejs-intro) by [Robert Axelsen](http://rob.ee/) (12.2017) [html](./src/2017_12_16_IntroToVueJS/intro-to-vuejs.html)
 
 18.[\`${number} obstacles when learning to code\`](https://github.com/robaxelsen/obstacles-talk) by [Robert Axelsen](http://rob.ee/) (02.2018)
+
+19.[Deploying Your Own VPN In The Cloud](https://slides.com/robertaxelsen/deploying-your-own-vpn-in-the-cloud/) by [Robert Axelsen](http://rob.ee/) (04.2018) [(html export)](https://github.com/FCCVienna/FCCVienna/tree/master/talks/src/2018_06_04_Deploying_VPN)

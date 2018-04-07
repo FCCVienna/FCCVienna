@@ -8,12 +8,22 @@ The lists are curated and also presented during meetups by:
 ---
 ## TOC
 
+  - [May Newsflash](#may-newsflash)
   - [April Newsflash](#april-newsflash)
   - [March Newsflash](#march-newsflash)
   - [February Newsflash](#february-newsflash)
   - [January Newsflash](#january-newsflash)
 
 ---
+## May Newsflash
+
+### Main articles
+1. [How to pimp out your developer profile and leave your old résumé in the dust](https://medium.freecodecamp.org/how-to-pimp-out-your-developer-profile-and-leave-your-old-r%C3%A9sum%C3%A9-in-the-dust-3655b0c04c05)
+
+### Side articles
+1.
+
+
 ## April Newsflash
 
 ### Main articles

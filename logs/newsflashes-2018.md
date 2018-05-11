@@ -19,9 +19,10 @@ The lists are curated and also presented during meetups by:
 
 ### Main articles
 1. [How to pimp out your developer profile and leave your old résumé in the dust](https://medium.freecodecamp.org/how-to-pimp-out-your-developer-profile-and-leave-your-old-r%C3%A9sum%C3%A9-in-the-dust-3655b0c04c05)
+1. [What technical recruiters want from engineering candidates](https://www.keyvalues.com/blog/what-tech-recruiters-want-from-engineering-candidates)
 
 ### Side articles
-1.
+1. [Gooact: React in 160 lines of JavaScript](https://medium.com/@sweetpalma/gooact-react-in-160-lines-of-javascript-44e0742ad60f)
 
 
 ## April Newsflash

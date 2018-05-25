@@ -24,6 +24,7 @@ The lists are curated and also presented during meetups by:
 ### Side articles
 1. [Gooact: React in 160 lines of JavaScript](https://medium.com/@sweetpalma/gooact-react-in-160-lines-of-javascript-44e0742ad60f)
 1. [Most active GitHub users](https://git.io/top)
+1. [Conversations with a six-year-old on functional programming](https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/)
 1. [How to use Chrome DevTools to do modern web development right in your browser (50 minute watch)](https://www.youtube.com/watch?v=wz1Sy5C039M)
 1. [How a 33-year-old museum tour guide became a professional web developer - her 18 month coding journey (10 minute read)](https://medium.freecodecamp.org/2902d074f5ba)
 1. [My struggle to learn React](http://bradfrost.com/blog/post/my-struggle-to-learn-react/)

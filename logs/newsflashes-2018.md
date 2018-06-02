@@ -8,11 +8,26 @@ The lists are curated and also presented during meetups by:
 ---
 ## TOC
 
+  - [June Newsflash](#june-newsflash)
   - [May Newsflash](#may-newsflash)
   - [April Newsflash](#april-newsflash)
   - [March Newsflash](#march-newsflash)
   - [February Newsflash](#february-newsflash)
   - [January Newsflash](#january-newsflash)
+
+---
+## June Newsflash
+
+### Main articles
+1. [JavaScript symbols, iterators, generators, async/await, and async iterators - a simple explanation](https://medium.freecodecamp.org/4003d7bbed32)
+1. []()
+
+### Side articles
+1. [TypeScript Introduction](https://auth0.com/blog/typescript-practical-introduction/)
+1. [A JavaScript String Methods Cheatsheet](https://gist.github.com/rauschma/c46fc10f671ed5bf14021bc14f101c8d)
+1. [Jest 23 Released: Even Faster JS Testing](https://javascriptweekly.com/link/47989/1c819801fe)
+1. [How to code your own YouTube app: a full YouTube API tutorial with code examples (1 hour watch)](https://www.youtube.com/watch?v=9sWEecNUW-o)
+1. []()
 
 ---
 ## May Newsflash
@@ -30,7 +45,7 @@ The lists are curated and also presented during meetups by:
 1. [My struggle to learn React](http://bradfrost.com/blog/post/my-struggle-to-learn-react/)
 1. [Angular 6.0 Released ](https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4)
 
-
+---
 ## April Newsflash
 
 ### Main articles

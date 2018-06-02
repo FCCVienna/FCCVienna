@@ -3,7 +3,7 @@
 The newsflash section contains articles from different newsletters that we regard as interesting for our community.
 
 The lists are curated and also presented during meetups by:
-- [Daniel](https://github.com/DDCreationStudios)
+- [Daniel](https://github.com/Createdd)
 - [Robert](https://github.com/robeerob)
 ---
 ## TOC

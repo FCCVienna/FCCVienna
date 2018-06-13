@@ -15,6 +15,18 @@ The lists are curated and also presented during meetups by:
   - [January Newsflash](#january-newsflash)
 
 ---
+## June Newsflash
+
+### Main articles
+1. [Microsoft to acquire GitHub for $7.5 billion](https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/)
+
+### Side articles
+1. [Why Single Moms should go to a Coding Bootcamp](https://dev.to/thadevelyouknow/why-single-moms-should-go-to-a-coding-bootcamp-41fa)
+1. [Genuinely useful career resources for self-taught developers](https:ci(https://medium.freecodecamp.org/genuinely-useful-career-resources-for-self-taught-developers-8e679cec25ab//git.io/top)
+1. [The freeCodeCamp Podcast](http://freecodecamp.libsyn.com/)
+
+
+---
 ## May Newsflash
 
 ### Main articles

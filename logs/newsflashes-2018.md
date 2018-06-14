@@ -3,11 +3,12 @@
 The newsflash section contains articles both from the freeCodeCamp newsletters as well as other sources that we regard as interesting for our community.
 
 The lists are curated and also presented during meetups by:
-- [Daniel](https://github.com/DDCreationStudios)
+- [Daniel](https://github.com/Createdd)
 - [Robert](https://github.com/robeerob)
 ---
 ## TOC
 
+  - [June Newsflash](#june-newsflash)
   - [May Newsflash](#may-newsflash)
   - [April Newsflash](#april-newsflash)
   - [March Newsflash](#march-newsflash)
@@ -19,12 +20,16 @@ The lists are curated and also presented during meetups by:
 
 ### Main articles
 1. [Microsoft to acquire GitHub for $7.5 billion](https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/)
+1. [JavaScript symbols, iterators, generators, async/await, and async iterators - a simple explanation](https://medium.freecodecamp.org/4003d7bbed32)
 
 ### Side articles
 1. [Why Single Moms should go to a Coding Bootcamp](https://dev.to/thadevelyouknow/why-single-moms-should-go-to-a-coding-bootcamp-41fa)
 1. [Genuinely useful career resources for self-taught developers](https:ci(https://medium.freecodecamp.org/genuinely-useful-career-resources-for-self-taught-developers-8e679cec25ab//git.io/top)
 1. [The freeCodeCamp Podcast](http://freecodecamp.libsyn.com/)
-
+1. [TypeScript Introduction](https://auth0.com/blog/typescript-practical-introduction/)
+1. [A JavaScript String Methods Cheatsheet](https://gist.github.com/rauschma/c46fc10f671ed5bf14021bc14f101c8d)
+1. [Jest 23 Released: Even Faster JS Testing](https://javascriptweekly.com/link/47989/1c819801fe)
+1. [How to code your own YouTube app: a full YouTube API tutorial with code examples (1 hour watch)](https://www.youtube.com/watch?v=9sWEecNUW-o)
 
 ---
 ## May Newsflash
@@ -36,12 +41,13 @@ The lists are curated and also presented during meetups by:
 ### Side articles
 1. [Gooact: React in 160 lines of JavaScript](https://medium.com/@sweetpalma/gooact-react-in-160-lines-of-javascript-44e0742ad60f)
 1. [Most active GitHub users](https://git.io/top)
+1. [Conversations with a six-year-old on functional programming](https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/)
 1. [How to use Chrome DevTools to do modern web development right in your browser (50 minute watch)](https://www.youtube.com/watch?v=wz1Sy5C039M)
 1. [How a 33-year-old museum tour guide became a professional web developer - her 18 month coding journey (10 minute read)](https://medium.freecodecamp.org/2902d074f5ba)
 1. [My struggle to learn React](http://bradfrost.com/blog/post/my-struggle-to-learn-react/)
 1. [Angular 6.0 Released ](https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4)
 
-
+---
 ## April Newsflash
 
 ### Main articles

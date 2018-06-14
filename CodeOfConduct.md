@@ -85,6 +85,5 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 10. Contact
 
-- <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/854371/profile/profile-80_2.jpg" height="60"> [Daniel](https://github.com/DDCreationStudios)
-- <img src="https://avatars1.githubusercontent.com/u/17717159?v=3&s=460" height="60"> [Lukas](https://github.com/lukastillmann)
+- <img src="https://avatars2.githubusercontent.com/u/22077628?s=460&v=4" height="60"> [Daniel](https://github.com/Createdd)
 - <img src="https://avatars3.githubusercontent.com/u/13132899?v=3&s=460" height="60"> [Robert](https://github.com/robeerob)

@@ -25,27 +25,63 @@ class: center, middle
 
 ---
 
-# Agenda
+# Talk Contents
 
-1. Introduction
-2. Man
-3. Git
-4. Creating Files
-5. Manipulation Files
-6. Tmux
-7. SSH
-8. Vim
-9. Process Management
-10. Nyancat
-11. More
+1. Speaker
+2. Introduction
+3. UNIX
+4. BASH
+5. Man
+6. Git
+7. Navigate And Find Files
+8. Creating Files And Directories
+9. Manipulation Files
+10. Vim
+11. Connect To A Server
+12. Process Management
+13. Nyancat
+14. More
+15. This Talk
+
+---
+
+# Speaker
+
 ---
 
 # Introduction
 
 ---
 
+# UNIX
+
+Uix philosophy and definition, and that this talk is UNIX/Linux centric.
+
+---
+
+# BASH
+
+Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell. First released in 1989, it has been distributed widely as the default login shell for most Linux distributions and Apple's macOS.
+
+```
+Ctrl+r
+Ctrl+a
+Ctrl+e
+Ctrl+l
+clear
+```
+
+Resources:  
+[Awesome Bash](https://github.com/awesome-lists/awesome-bash)
+
+---
+
 # Man
 
+man is the system's manual pager.  Each page argument given to man is normally the name of a program, utility or function.  The manual page associated with each of these arguments is then found and displayed.
+
+```
+man bash
 ```
 man git
 ```
@@ -54,21 +90,42 @@ man git
 
 # Git
 
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
 ```
 git init
 git clone
 git status
 git add
+git commit -m 'Commit message'
 git push
 ```
 
 ---
 
-# Creating Files
+# Navigate And Find Files
+
+With the command line you're never far away from finding your files.
+
+```
+cd mydir/hello
+cd ..
+cd ../../..
+find / -name catpic
+find . -name catpic
+ack
+```
+
+---
+
+# Creating Files And Directories
+
+It's easy to create files from the command line.
 
 ```
 touch file_1.txt
 echo "hello textfile" > file_2.txt
+nano file_3.txt
 echo "more hello" >> file_2.txt
 vim file_3.txt
 ```
@@ -77,31 +134,77 @@ vim file_3.txt
 
 # Manipulating Files
 
----
+You can easily remove, update timestamp, and change the content of files.
 
-# Tmux
-
----
-
-# SSH
+```
+touch -d "2 hours ago" file_1.txt
+rm file_1.txt
+echo "more content" >> file_2.txt
+nano file_2.txt
+```
 
 ---
 
 # Vim
 
+```
+vim myfile.txt
+ESC
+:wq!
+```
+
+---
+
+# Connect To A Server
+
+```
+ssh root@1.2.3.4
+tmux
+vim
+ctrl+a d
+```
+
 ---
 
 # Process Management
 
+```
+pidof program
+kill 9378
+pkill program
+top
+htop
+```
+
 ---
 
 # Nyancat
+
+```
+sudo apt install nyancat
+nyancat
+```
+
+Online (nyan.cat):
+[Nyancat](http://www.nyan.cat/)
 
 ---
 
 # More
 
 [Hak5 Linux Terminal 101](https://www.youtube.com/watch?v=b5NmtmNwMgU&list=PLW5y1tjAOzI2ZYTlMdGzCV8AJuoqW5lKB)
+
+---
+
+# This Talk
+
+These talks were created using Remark.js and Vim only.
+
+Slides available at:  
+[https://github.com/FCCVienna/FCCVienna/tree/master/talks](https://github.com/FCCVienna/FCCVienna/tree/master/talks)
+
+Remark.js:  
+[https://github.com/gnab/remark](https://github.com/gnab/remark)
 
     </textarea>
     <script src="https://remarkjs.com/downloads/remark-latest.min.js">

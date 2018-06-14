@@ -19,15 +19,17 @@ The lists are curated and also presented during meetups by:
 ## June Newsflash
 
 ### Main articles
+1. [Microsoft to acquire GitHub for $7.5 billion](https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/)
 1. [JavaScript symbols, iterators, generators, async/await, and async iterators - a simple explanation](https://medium.freecodecamp.org/4003d7bbed32)
-1. []()
 
 ### Side articles
+1. [Why Single Moms should go to a Coding Bootcamp](https://dev.to/thadevelyouknow/why-single-moms-should-go-to-a-coding-bootcamp-41fa)
+1. [Genuinely useful career resources for self-taught developers](https:ci(https://medium.freecodecamp.org/genuinely-useful-career-resources-for-self-taught-developers-8e679cec25ab//git.io/top)
+1. [The freeCodeCamp Podcast](http://freecodecamp.libsyn.com/)
 1. [TypeScript Introduction](https://auth0.com/blog/typescript-practical-introduction/)
 1. [A JavaScript String Methods Cheatsheet](https://gist.github.com/rauschma/c46fc10f671ed5bf14021bc14f101c8d)
 1. [Jest 23 Released: Even Faster JS Testing](https://javascriptweekly.com/link/47989/1c819801fe)
 1. [How to code your own YouTube app: a full YouTube API tutorial with code examples (1 hour watch)](https://www.youtube.com/watch?v=9sWEecNUW-o)
-1. []()
 
 ---
 ## May Newsflash

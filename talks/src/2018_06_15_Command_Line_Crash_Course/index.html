@@ -29,12 +29,12 @@ class: center, middle
 
 1. Speaker
 2. Introduction
-3. UNIX
-4. BASH
+3. Unix
+4. Bash
 5. Man
 6. Git
-7. Navigate And Find Files
-8. Creating Files And Directories
+7. Creating Files And Directories
+8. Navigate And Find Files
 9. Manipulation Files
 10. Vim
 11. Connect To A Server
@@ -47,19 +47,37 @@ class: center, middle
 
 # Speaker
 
+Robert Axelsen
+@robaxelsen
+
+Self-taught Software Developer, speaker, meetup organizer, and a community enthusiast. Having founded three monthly meetups (namely Vue.js Vienna, Vienna Go User Group and Free Code Camp Vienna) his greatest passion is creating and fostering environments where code and people conjoin in a friendly and supportive way.
+
 ---
 
 # Introduction
 
+This talk is by no means exhaustive.  
+
+It's meant to give people unfamiliar (or only a little bit familiar) with the command line, a little jump-start.  
+
+Suggestions for talk improvements, or additional commands that should be included, are welcome!
+
 ---
 
-# UNIX
+# Unix
 
-Uix philosophy and definition, and that this talk is UNIX/Linux centric.
+This talk is Unix and Bash centric.  
+
+Unix is a family of multitasking, multiuser computer operating systems that derive from the original AT&T Unix, development starting in the 1970s at the Bell Labs.  
+
+The Unix philosophy, originated by Ken Thompson, is a set of cultural norms and philosophical approaches to minimalist, modular software development. It is based on the experience of leading developers of the Unix operating system. Early Unix developers were important in bringing the concepts of modularity and reusability into software engineering practice, spawning a "software tools" movement. 
+
+More:  
+[Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
 
 ---
 
-# BASH
+# Bash
 
 Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell. First released in 1989, it has been distributed widely as the default login shell for most Linux distributions and Apple's macOS.
 
@@ -102,21 +120,6 @@ git push
 
 ---
 
-# Navigate And Find Files
-
-With the command line you're never far away from finding your files.
-
-```
-cd mydir/hello
-cd ..
-cd ../../..
-find / -name catpic
-find . -name catpic
-ack
-```
-
----
-
 # Creating Files And Directories
 
 It's easy to create files from the command line.
@@ -127,6 +130,25 @@ echo "hello textfile" > file_2.txt
 nano file_3.txt
 echo "more hello" >> file_2.txt
 vim file_3.txt
+mkdir mydir
+mkdir -p mydir/hello
+```
+
+---
+
+# Navigate And Find Files
+
+With the command line you're never far away from finding your files.
+
+```
+ls
+ls -lah
+cd mydir/hello
+cd ..
+cd ../..
+find / -name catpic
+find . -name catpic
+ack
 ```
 
 ---
@@ -140,6 +162,9 @@ touch -d "2 hours ago" file_1.txt
 rm file_1.txt
 echo "more content" >> file_2.txt
 nano file_2.txt
+mv file_2.txt file_newname.txt
+cp file_2.txt file_3.txt
+cp file_2.txt{,.bkp}
 ```
 
 ---
@@ -149,6 +174,7 @@ nano file_2.txt
 ```
 vim myfile.txt
 ESC
+:help vimtutor
 :wq!
 ```
 
@@ -160,7 +186,10 @@ ESC
 ssh root@1.2.3.4
 tmux
 vim
-ctrl+a d
+ctrl+b d
+tmux attach
+tmux ls
+tmux attach -t 0
 ```
 
 ---

@@ -61,7 +61,7 @@ You can also open an issue and mention one of us. 😄
 ## License [![License](https://img.shields.io/badge/License-BSD%203--Clause-red.svg)](https://opensource.org/licenses/BSD-3-Clause) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-red.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 
-Copyright (c) 2017 FCCVienna.
+Copyright &copy<strong> 2017</strong> FCCVienna.
 
 The content of this repository bound by the following LICENSE(S)
 

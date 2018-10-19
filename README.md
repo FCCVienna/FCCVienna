@@ -48,7 +48,7 @@ We are always looking for sponsors to cover free drinks and food, or the space w
 
 ## Organizer Team
 
-The FreeCodeCamp Vienna Meetup is organized by the Verein "DevelopersRising - Verein zur Förderung von ProgrammiererInnen". 
+The FreeCodeCamp Vienna Meetup is organized by the Verein <strong>"DevelopersRising - Verein zur Förderung von ProgrammiererInnen". </strong>
 
 For feedback, questions or suggestions get in contact with
 - <img src="https://avatars2.githubusercontent.com/u/22077628?s=460&v=4" height="60"> [Daniel](https://github.com/Createdd)
@@ -60,8 +60,8 @@ You can also open an issue and mention one of us. 😄
 
 ## License [![License](https://img.shields.io/badge/License-BSD%203--Clause-red.svg)](https://opensource.org/licenses/BSD-3-Clause) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-red.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
 
-
-Copyright &#169<strong> 2017</strong> FCCVienna.
+<hr>
+<strong>Copyright &#169 2017 FCCVienna.</strong>
 
 The content of this repository bound by the following LICENSE(S)
 

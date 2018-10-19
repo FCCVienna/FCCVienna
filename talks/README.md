@@ -46,3 +46,5 @@ Level-Up your Career – Become a Focus Manager](https://speakerdeck.com/matuzo/
 19.[Deploying Your Own VPN In The Cloud](https://slides.com/robertaxelsen/deploying-your-own-vpn-in-the-cloud/) by [Robert Axelsen](http://rob.ee/) (04.2018) [(html export)](https://github.com/FCCVienna/FCCVienna/tree/master/talks/src/2018_06_04_Deploying_VPN)
 
 20.[Command Line Crash Course](https://github.com/FCCVienna/FCCVienna/tree/master/talks/src/2018_06_15_Command_Line_Crash_Course) by [Robert Axelsen](http://rob.ee/) (06.2018)
+
+21. [freeCodeCamp Top Contributors 2018 Party In Dublin](https://github.com/FCCVienna/FCCVienna/tree/master/talks/src/2018_10_Top_Contributors_Party_Dublin/) by [Robert Axelsen](http://rob.ee/) (10.2018)

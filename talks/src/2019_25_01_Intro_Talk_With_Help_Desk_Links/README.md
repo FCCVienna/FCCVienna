@@ -16,7 +16,7 @@ This, combined with the fact that Fridays won't work too well for Robert this se
 
 We've decided to keep having monthly meetups, but on Saturday evenings, and in a cafe or bar, without talks. Aka "Code and Drinks".
 
-![It Crowd Moss Drinking Milk](https://media.giphy.com/media/R9Sq5b15MdyA8/giphy.gif "Drink Milk And Kick Ass!")
+![It Crowd Moss Drinking Milk](https://media.giphy.com/media/2b9lhank4gPC0/giphy.gif "Drink Milk And Kick Ass!")
 
 ## Program
 

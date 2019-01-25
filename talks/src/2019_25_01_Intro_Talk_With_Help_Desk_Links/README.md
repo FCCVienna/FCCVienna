@@ -38,6 +38,10 @@ We've decided to keep having monthly meetups, but on Saturday evenings, and in a
 
 freeCodeCamp.org: [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
 
+Harvard CS50 Videos now on AfreeCodeCamp: [https://www.freecodecamp.org/forum/t/the-first-few-harvard-cs50-videos-are-now-live/253738](https://www.freecodecamp.org/forum/t/the-first-few-harvard-cs50-videos-are-now-live/253738)
+
 Make a Pull Request course: [http://makeapullrequest.com/](http://makeapullrequest.com/)
 
-Harvard CS50 Videos now on freeCodeCamp: [https://www.freecodecamp.org/forum/t/the-first-few-harvard-cs50-videos-are-now-live/253738](https://www.freecodecamp.org/forum/t/the-first-few-harvard-cs50-videos-are-now-live/253738]
+## Attendees Who Made A Pull Request To This File
+
+[Robert Axelsen](https://twitter.com/robaxelsen)

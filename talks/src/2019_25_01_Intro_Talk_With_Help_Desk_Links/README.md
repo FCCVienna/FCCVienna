@@ -6,7 +6,15 @@
 
 ![freeCodeCamp Vienna Logo](https://github.com/FCCVienna/FCCVienna/raw/master/graphics/Logo1_green.png "Logo of freeCodeCamp Vienna")
 
-Link: [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
+*freeCodeCamp* is a non-profit organization that consists of an interactive learning web platform, an online community forum, chat rooms, Medium publications and local organizations that intend to make learning web development accessible to anyone. With over 2 million members.
+
+*freeCodeCamp Vienna* is the local student group. We also host meetups open for anyone (also non-students) to join, currently organized by Developers Rising.
+
+freeCodeCamp: [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
+
+freeCodeCamp Vienna: [https://fccvienna.github.io/](https://fccvienna.github.io/)
+
+Developers Rising: [http://developersrising.org](http://developersrising.org)
 
 ## Plans For 2019
 

@@ -20,15 +20,7 @@ Developers Rising: [http://developersrising.org](http://developersrising.org)
 
 Follow us on Twitter, we often live tweet the talks, and share community and code related content.
 
-Meetup:
-
-[**@freecodecampvie**](https://twitter.com/freecodecampvie)
-
-Organizers:
-
-[**@robaxelsen**](https://twitter.com/robaxelsen)
-
-[**@\_createdd**](https://twitter.com/_createdd)
+[**@freecodecampvie**](https://twitter.com/freecodecampvie) [**@robaxelsen**](https://twitter.com/robaxelsen) [**@\_createdd**](https://twitter.com/_createdd)
 
 ## Plans For 2019
 

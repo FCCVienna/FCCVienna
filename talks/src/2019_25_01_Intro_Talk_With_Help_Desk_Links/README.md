@@ -16,6 +16,20 @@ freeCodeCamp Vienna: [https://fccvienna.github.io/](https://fccvienna.github.io/
 
 Developers Rising: [http://developersrising.org](http://developersrising.org)
 
+### Twitter
+
+Follow us on Twitter, we often live tweet the talks, and share community and code related content.
+
+Meetup:
+
+[**@freecodecampvie**](https://twitter.com/freecodecampvie)
+
+Organizers:
+
+[**@robaxelsen**](https://twitter.com/robaxelsen)
+
+[**@\_createdd**](https://twitter.com/_createdd)
+
 ## Plans For 2019
 
 We're planning to make some changes this year. We love organizing and hosting meetups with talks, but at times it demands a lot of work for us organizers, especially if we have to give talks on every meetup.

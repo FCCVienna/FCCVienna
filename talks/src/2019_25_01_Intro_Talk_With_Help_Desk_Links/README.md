@@ -48,6 +48,16 @@ We've decided to keep having monthly meetups, but on Saturday evenings, and in a
 
 1. **PARTY TIME!** - Move on to a suitable location (most likely a bar) to continue the conversation and socializing.
 
+## Partner Conference
+
+<img src="https://i.imgur.com/5gdRZpc.jpg" width="700">
+
+A full-day, two-track conference on all things React, gathering Front-end and Full-stack developers across the globe in the tech heart of Europe. We're coming back with a new gig on April 10-12, 2019.
+Mark your calendars for the biggest React community event.
+
+Diversity tickets open for application, deadline Feb 8:
+[https://medium.com/@ReactAmsterdam/apply-for-a-diversity-scholarship-attend-react-amsterdam-2019-for-free-65cd27d17a33](https://medium.com/@ReactAmsterdam/apply-for-a-diversity-scholarship-attend-react-amsterdam-2019-for-free-65cd27d17a33)
+
 ## Help Desk Links
 
 freeCodeCamp.org: [https://www.freecodecamp.org/](https://www.freecodecamp.org/)

@@ -50,3 +50,5 @@ Level-Up your Career – Become a Focus Manager](https://speakerdeck.com/matuzo/
 21. [freeCodeCamp Top Contributors 2018 Party In Dublin](https://github.com/FCCVienna/FCCVienna/tree/master/talks/src/2018_10_Top_Contributors_Party_Dublin/) by [Robert Axelsen](http://rob.ee/) (10.2018)
 
 22. [Intro Talk With Help Desk Links](https://github.com/FCCVienna/FCCVienna/tree/master/talks/src/2019_25_01_Intro_Talk_With_Help_Desk_Links/) by [Robert Axelsen](http://rob.ee/) (01.2019)
+
+23. [Intro Talk With Conference Tickets and Giveaway](https://github.com/FCCVienna/FCCVienna/tree/master/talks/src/2019-09-05-Intro-Slides.pdf) by [Robert Axelsen](http://rob.ee/) (09.2019)
